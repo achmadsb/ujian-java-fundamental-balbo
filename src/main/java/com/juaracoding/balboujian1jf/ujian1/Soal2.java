@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class Soal2 {
     public static void main(String[] args) {
-        // Membuat objek Scanner untuk menerima input
         Scanner input = new Scanner(System.in);
 
         // Memasukkan nama film
